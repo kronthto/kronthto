@@ -1,4 +1,8 @@
-### Hi there 👋
+```
+- 👋 Hi, I'm Tobias
+- 🐧 web/dev/sysadmin
+- 🔭 js, Vue, React, php, Rust, Dart, Linux
+```
 
 <!--
 **kronthto/kronthto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
