@@ -1,7 +1,7 @@
 ```
 - 👋 Hi, I'm Tobias
 - 🐧 web/dev/sysadmin
-- 🔭 js, Vue, React, php, Rust, Dart, .deb Linux
+- 🔭 js, Vue, React, php, Rust, Dart, .deb GNU Linux
 ```
 
 <!--
